@@ -19,7 +19,6 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -29,6 +28,9 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-    
+
+  - title: "Miscellanea"
+    url: /miscellanea/
+
   - title: "Guide"
     url: /markdown/
