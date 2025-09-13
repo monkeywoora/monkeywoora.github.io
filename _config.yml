@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chongyu Chang 's person website"
+title                    : "PPerson website by CCY"
 title_separator          : "-"
 name                     : &name "Chongyu Chang"
 description              : &description "personal description"
