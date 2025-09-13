@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Webpage by Chongyu Chang"
 author_profile: true
 redirect_from: 
   - /about/
