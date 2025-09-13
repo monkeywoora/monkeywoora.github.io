@@ -3,10 +3,11 @@ layout: archive
 title: "Miscellanea"
 permalink: /miscellanea/
 author_profile: true
+redirect_from:
+  - /miscellanea
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+123456789
+
