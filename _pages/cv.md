@@ -16,7 +16,13 @@ Education
 
 Intern experience
 ======
-* 2023.06 ~ 2023.07: Engineer 
-  * Beijing Cloud co.etd
+* 2023.06 ~ 2023.07: Data Analyst (Intern) 
+  * Yiducloud (Beijing) Technology  CO., LTD
   * Duties includes: Collecting Data and make analysis
-  * Supervisor: The Users
+  * Introduction : During my internship, I was responsible for collecting and categorizing certain data. This period of internship has improved my ability to perform data analysis.
+* 2025.05 ~ 2025.06: Interdisciplinary LLM Engineer (Intern)
+  * Gongdaozhifa (Beijing) Technology  CO., LTD
+  * Introduction: During my internship, I was in charge of processing data in using Artificial Intelligence. This period of internship has improved my comprehension of interdisciplinary knowledge. 
+* 2025.06 ~ 2025.09: Data Processing Engineer(Intern)
+  * Xingzuo Shier (Beijing) Technology  CO., LTD
+  * Duties includes: Succeeded by the previuous internship at last company left
