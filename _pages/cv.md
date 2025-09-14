@@ -25,4 +25,4 @@ Intern experience
   * Introduction: During my internship, I was in charge of processing data in using Artificial Intelligence. This period of internship has improved my comprehension of interdisciplinary knowledge. 
 * 2025.06 ~ 2025.09: Data Processing Engineer(Intern)
   * Xingzuo Shier (Beijing) Technology  CO., LTD
-  * Duties includes: Succeeded by the previuous internship at last company left
+  * Duties includes: Succeeded by the previuous internship at last company left.
