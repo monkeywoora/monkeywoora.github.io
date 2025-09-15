@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# These are the miscellanea of my own: 
-
-I 
+# Inspired by Esteemd Professor [ Mingming Cheng](https://mmcheng.net/cmm/) and other  
