@@ -12,8 +12,10 @@ redirect_from:
 ## **These are the miscellanea of my own:**
 
 **The drink I am willing to have:**  Purified water <br>
-**Others:** Diet Coke Cola **OR** Coffee Latte with Black Tea (Maybe it is Yuenyeung without sryup) **OR** Lemon Mint Soda(Maybe Mojito without alchol)
+**Others:** Diet Coke Cola <br>
+**OR** Coffee Latte with Black Tea (Maybe it is similar to Yuenyeung without syrup) <br>
+**OR** Lemon Mint Soda(Maybe it is similar to Mojito without alcohol)
 
-**The boardgame I am willing to play:** Twilight Struggle
+**The boardgame I am willing to play:**  Twilight Struggle
 
-**The book I am willing to read:**  Meditations
+**The book I am willing to read:**   Meditations
