@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Miscellanea"
+title: ""
 permalink: /miscellanea/
 author_profile: true
 redirect_from:
@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# These are the miscellanea of my own: 
+# **These are the miscellanea of my own:**
 
-
-**The drink I am willing to have:**  Purified water
+**The drink I am willing to have:**  Purified water <br>
 **Others:** Diet Coke Cola **OR** Coffee Latte with Black Tea (Maybe it is Yuenyeung without sryup) **OR** Lemon Mint Soda(Maybe Mojito without alchol)
 
 **The boardgame I am willing to play:** Twilight Struggle
