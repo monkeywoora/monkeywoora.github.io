@@ -22,13 +22,14 @@ redirect_from:
 
 
 
-### Idea 2: End-to-End Encryption IM in IPv6 Only Environments
+### Idea 2: Usage of End-to-End Encryption Instant Messaging softwares in IPv6 Only Environments
 **Category:** This is an interdisciplinary topic associated with <span style="color:forestgreen">**Computer Networks**</span> and <span style="color:darkorange">**Cybersecurity**</span> . <br>
 **Brief Description:**<br>
 
 **Reference:**
 
->3. ["Can't believe I'm crying over an anime girl": Public Parasocial Grieving and Coping Towards VTuber Graduation and Termination.](https://dl.acm.org/doi/10.1145/3706598.3714216) (ACM SIN 2013)
+
+>1. [Privacy and security in IPv6 networks: challenges and possible solutions.](https://dl.acm.org/doi/10.1145/2523514.2527004) (ACM SIN 2013)
 
 
 
@@ -37,3 +38,5 @@ redirect_from:
 **Brief Description:**<br>
 
 **Reference:**
+
+>1. [First-Fit Coloring of Forests in Random Arrival Model](https://doi.org/10.4230/LIPIcs.MFCS.2024.33) (MFCS 2024)
