@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## **My statement in advance:**
+## My statement in advance:
 
 Inspired by Esteemed Professor [ Mingming Cheng ](https://mmcheng.net/cmm/) 's [ DOCX Initiative ](https://mmcheng.net/docx-en/) and other people: I would like to enlist some publications or papers which has not translated to Chinese yet.(As far as I know.) Here are some translations I worked, am working on, or I will try in the future.   
 
