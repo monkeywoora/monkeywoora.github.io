@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-# These are the ideas of my own: 
+## These are the ideas of my own: 
 
-1. Revolving Doors among Youtubers , Idols and Livestreamers
+### Idea 1: Revolving Doors among Youtubers , Idols and Livestreamers
 
-2. End-to-End Encryption IM in IPv6 Only Environments
+### Idea 2: End-to-End Encryption IM in IPv6 Only Environments
 
-3. Random Order Model 's Coloring in the Bipartite Graphes
+### Idea 3: Random Order Model 's Coloring in the Bipartite Graphes
