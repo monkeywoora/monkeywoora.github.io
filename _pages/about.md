@@ -13,7 +13,7 @@ Mr. Chongyu Chang is currently an Master of Science student in Computer Science 
 
 ## News
 
-I am genuinely looking forward to the Ph.D. position in the 26Spring / 26Fall / 27Spring , if you have any ideas or advice, feel free to email
+I am genuinely looking forward to the Ph.D. position in the 26Spring / 26Fall / 27Spring , if you have any ideas or suggestions, feel free to email me.
 
 ## Mailbox 
 
