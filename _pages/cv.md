@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
-* B.S. in Electronic Information Engineering, Beijing University of Technology, 2020.09 ~ 2024.07
+
+* B.E. in Electronic Information Engineering, Beijing University of Technology, 2020.09 ~ 2024.07
 * M.S. in Computer Science, City University of Hong Kong (Dongguan Campus), 2024.09 ~ 2026.06 (expected)
 
 ## Intern experience
-======
+
 * 2023.06 ~ 2023.07: Data Analyst (Intern) 
   * Yiducloud (Beijing) Technology  CO., LTD
   * Duties includes: Collecting Data and make analysis
