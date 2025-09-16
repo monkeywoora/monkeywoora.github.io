@@ -11,7 +11,7 @@ redirect_from:
 
 ## **These are the miscellanea of my own:**
 
-**The drink I am willing to have:**  Purified water <br>
+**The beverage I am willing to drink:**  Purified water <br>
 **Others:** Diet Coke Cola <br>
 **OR** Coffee Latte with Black Tea (Maybe it is similar to Yuenyeung without syrup) <br>
 **OR** Lemon Mint Soda(Maybe it is similar to Mojito without alcohol)
