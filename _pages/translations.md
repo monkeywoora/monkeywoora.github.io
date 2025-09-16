@@ -15,7 +15,7 @@ Inspired by Esteemed Professor [ Mingming Cheng ](https://mmcheng.net/cmm/) 's [
 
 **Past and Present Progress:** I am now working to translate [*AOD-Net: All-in-One Dehazing Network*](https://ieeexplore.ieee.org/document/8237773/) (ICCV 2017), if you have the same interest, please feel free to email me.
 
-**Future Plan:** I am working on the those papers, no matter which field they are from:
+**Future Plan:** I am working on the those papers, no matter which field they are from
 
 1. Connectedness of Random Walk Segmentation. Ming-Ming Cheng, Guo-Xin Zhang. IEEE TPAMI, 2011. 33(1): p. 200 -202.
 
