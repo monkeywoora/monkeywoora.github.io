@@ -17,7 +17,6 @@ I am genuinely looking forward to the Ph.D. position in the 26Spring / 26Fall / 
 
 ## Mailbox 
 
-I just set my protonmail as the hyperlink. If you are 
+I just set my protonmail as the hyperlink. If you are preferred to use educational mailbox, you might as well send emails and possibly carbon copied with my protonmail mailbox.
 
-
-My educational mailbox is 72403895 [at] cityu-dg [dot] edu [dot] cn
+My educational mailbox is : 72403895 [at] cityu-dg [dot] edu [dot] cn
