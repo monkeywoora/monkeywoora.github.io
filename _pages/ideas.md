@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## These are the ideas of my own: db
+## These are the ideas of my own:
 
 
 ### Idea 1: Random Order Models' Coloring in the Bipartite Graphes
@@ -19,11 +19,13 @@ redirect_from:
 
 >1. [First-Fit Coloring of Forests in Random Arrival Model](https://doi.org/10.4230/LIPIcs.MFCS.2024.33) (MFCS 2024)
 
-> Moreover, the  second author previously gave one academic report at Zhejinag Normal University on May 8th, 2024. I shall upload the slides which was used in that report. We can view it at [here](https://workshop.mimuw.edu.pl/files/slides.pdf) .
+
+*Moreover, the second author previously gave one academic report at Zhejinag Normal University on May 8th, 2024. I shall upload the slides which was used in that report. We can view it at [here](https://workshop.mimuw.edu.pl/files/slides.pdf) .*
+
 
 >2. [Coloring and Recognizing Mixed Interval Graphs](https://doi.org/10.4230/LIPIcs.ISAAC.2023.36) (ISAAC 2023)
 
->3. []() ()
+>3. []() (MFCS)
 
 
 
