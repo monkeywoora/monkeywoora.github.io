@@ -9,24 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-## These are the ideas of my own: 
+## These are the ideas of my own: db
 
 
 ### Idea 1: Random Order Models' Coloring in the Bipartite Graphes
 **Category :** This is a topic associated with <span style="color:royalblue">**Theoretical Computer Science**</span> . <br>
 **Brief Description :** We have already known that the situation in Certain Order Models' Coloring in the Bipartite Graphes. However, how come when the situation changes to the Random Arrival Model? This is a question we would like to consider. <br>
-
-
 **Reference:**
 
 >1. [First-Fit Coloring of Forests in Random Arrival Model](https://doi.org/10.4230/LIPIcs.MFCS.2024.33) (MFCS 2024)
+
+> Moreover, the author previously hold a report at Zhejinag Normal University 
+
+>2. [Coloring and Recognizing Mixed Interval Graphs](https://doi.org/10.4230/LIPIcs.ISAAC.2023.36) (ISAAC 2023)
+
+>3. []() ()
 
 
 
 ### Idea 2: Usage of End-to-End Encryption Instant Messaging softwares in IPv6 Only Environments
 **Category :** This is an interdisciplinary topic associated with <span style="color:forestgreen">**Computer Networks**</span> and <span style="color:darkorange">**Cybersecurity**</span> . <br>
 **Brief Description:** I think there is no need to say something more about the usage of E2EE IM Softwares in IPv4 Environment. However, what is the condition in IPv6 Environment, especially IPv6-Only Environment?<br>
-
 **Reference:**
 
 
