@@ -25,7 +25,7 @@ redirect_from:
 
 ### Idea 2: Usage of End-to-End Encryption Instant Messaging softwares in IPv6 Only Environments
 **Category :** This is an interdisciplinary topic associated with <span style="color:forestgreen">**Computer Networks**</span> and <span style="color:darkorange">**Cybersecurity**</span> . <br>
-**Brief Description:**<br>
+**Brief Description:** I think there is no need to say something more about the usage of E2EE IM Softwares in IPv4 Environment. However, what is the condition in IPv6 Environment, especially IPv6-Only Environment?<br>
 
 **Reference:**
 
@@ -36,7 +36,7 @@ redirect_from:
 
 ### Idea 1: Revolving Doors among Youtubers, Idols and Livestreamers 
 **Category :** This is a topic associated with <span style="color:fuchsia">**Human Computer Interactions**</span> . <br>
-**Brief Description :** Nowadays,we can see the activities of Virtual Youtubers, Idol and Livestreamers have become more and more d<br>
+**Brief Description :** Nowadays,we can see the activities of Virtual Youtubers, Idol and Livestreamers have become more and more popular. <br>
 **Reference :**<br>
 
 >1. [More Kawaii than a Real-Person Live Streamer: Understanding How the Otaku Community Engages with and Perceives Virtual YouTubers.](https://dl.acm.org/doi/10.1145/3411764.3445660) (ACM CHI 2021) 
