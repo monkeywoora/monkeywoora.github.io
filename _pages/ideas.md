@@ -12,10 +12,10 @@ redirect_from:
 ## These are the ideas of my own: 
 
 
-
 ### Idea 1: Random Order Models' Coloring in the Bipartite Graphes
 **Category :** This is a topic associated with <span style="color:royalblue">**Theoretical Computer Science**</span> . <br>
 **Brief Description :** We have already known that the situation in Certain Order Models' Coloring in the Bipartite Graphes. However, how come when the situation changes to the Random Arrival Model? This is a question we would like to consider. <br>
+
 
 **Reference:**
 
@@ -30,7 +30,7 @@ redirect_from:
 **Reference:**
 
 
->3. [Privacy and security in IPv6 networks: challenges and possible solutions.](https://dl.acm.org/doi/10.1145/2523514.2527004) (ACM SIN 2013)
+>1. [Privacy and security in IPv6 networks: challenges and possible solutions.](https://dl.acm.org/doi/10.1145/2523514.2527004) (ACM SIN 2013)
 
 
 
