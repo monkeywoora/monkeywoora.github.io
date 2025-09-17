@@ -22,7 +22,7 @@ redirect_from:
 *Moreover, the second author previously gave one academic report at Zhejinag Normal University on May 8th, 2024. I shall upload the slides which was used in that report. We can view it at [here](https://workshop.mimuw.edu.pl/files/slides.pdf) .*
 >2. [Coloring and Recognizing Mixed Interval Graphs](https://doi.org/10.4230/LIPIcs.ISAAC.2023.36) (ISAAC 2023)
 
->3. []() (Journal )
+>3. [Online Coloring of Short Intervals](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2020.52) (APPROX/RANDOM 2020)
 
 
 
