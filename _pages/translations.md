@@ -30,6 +30,6 @@ Inspired by Esteemed Professor [ Mingming Cheng ](https://mmcheng.net/cmm/) 's [
 6. On the Mindless Menace of Violence, Robert Francis Kennedy, 1968-04-05
 
 
-**Addition:**
+## My reminder in addition:
 
 If you are interested in or well aware of Professor [Shunsuke Tsurumi](https://en.wikipedia.org/wiki/Shunsuke_Tsurumi) 's publications, it is my great pleasure to have discussions with you. 
