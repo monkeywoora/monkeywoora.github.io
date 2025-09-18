@@ -14,7 +14,7 @@ redirect_from:
 
 ### Idea 1: Random Order Models' Coloring in the Bipartite Graphes
 **Category :** This is a topic associated with <span style="color:royalblue">**Theoretical Computer Science**</span> . <br>
-**Brief Description :** We have already known that the situation in Certain Order Models' Coloring in the Bipartite Graphes. However, how come when the situation changes to the Random Arrival Model? This is a question we would like to consider. <br>
+**Brief Description :** We have already known that the situation in Deterministic Order Models' Coloring in the Bipartite Graphes. However, how come when the situation changes to the Random Arrival Model? This is a question we would like to consider. <br>
 **Reference:**
 
 > 1. [First-Fit Coloring of Forests in Random Arrival Model](https://doi.org/10.4230/LIPIcs.MFCS.2024.33) (MFCS 2024)
