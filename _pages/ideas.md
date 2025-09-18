@@ -36,7 +36,7 @@ redirect_from:
 
 ### Idea 3: Revolving Doors among Virtual Youtubers, Idols and Livestreamers 
 **Category :** This is a topic associated with <span style="color:fuchsia">**Human Computer Interactions**</span> . <br>
-**Brief Description :** Nowadays, we can see the activities by Virtual Youtubers, Idol and Livestreamers have become more and more popular. We can observe that it seems the revolving doors among them exist. How do we explain this phenomena in the new era? It is one question that we need to think about.<br>
+**Brief Description :** Nowadays, we can see the activities by Virtual Youtubers, Idols and Livestreamers have become more and more popular. We can observe that it seems the revolving doors among them exist. How do we explain this phenomena in the new era? It is one question that we need to think about.<br>
 **Reference :**<br>
 
 > 1. [More Kawaii than a Real-Person Live Streamer: Understanding How the Otaku Community Engages with and Perceives Virtual YouTubers.](https://dl.acm.org/doi/10.1145/3411764.3445660) (ACM CHI 2021) 
