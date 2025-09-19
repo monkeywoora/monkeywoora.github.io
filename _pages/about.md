@@ -25,4 +25,4 @@ My educational mailbox is : 72403895 [at] cityu-dg [dot] edu [dot] cn
 
 Now I have some ideas in consideration. You can visit them at [here](/_pages/ideas.md). If you have some inspiration, suggestions or comprehension, please feel free to email me.
 
-Past and now I am working to translate the [*AOD-Net: All-in-One Dehazing Network*](https://ieeexplore.ieee.org/document/8237773/) (ICCV 2017). You can find more details in [this column](/_pages/translations.md) . If you have the similar interest concerning Computer Vision topics, please feel free to email me.
+Past and now I am working to translate the [*AOD-Net: All-in-One Dehazing Network*](https://ieeexplore.ieee.org/document/8237773/) (ICCV 2017). You can find more details in [this column](/_pages/translations.md) . If you have the similar interest concerning topics related to Computer Vision, please feel free to email me.
