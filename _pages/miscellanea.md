@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## **These are the miscellanea of my own:**
+## These are the miscellanea of my own:
 
 **The beverage I am willing to drink:**  Purified water <br>
 **Others:** Diet Coke Cola <br>
