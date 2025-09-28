@@ -24,7 +24,11 @@ redirect_from:
 > 5. [End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem](https://dl.acm.org/doi/10.1145/3658644.3690309) (ACM CCS 2024)
 > 6. [Nemesis: Combating Abusive Information in Encrypted Messaging with Private Reporting](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_13) (ESORICS 2024)
 > 7. [Implementing full Internet IPv6 end-to-end encryption based on Cryptographically Generated Address](https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2019-January/044835.html)  (TOR Project)
-
+>
+>    *Moreover, There are some projets concerning this passage, I shall list them as follows.*
+>
+> 8.  Project [Yggdrasil](https://yggdrasil-network.github.io/) on GitHub
+> 9.  Project [CJDS](https://github.com/cjdelisle/cjdns) on GitHub
 
 ### Idea 2: Random Order Models' Coloring in the Bipartite Graphes
 **Category :** This is a topic associated with <span style="color:royalblue">**Theoretical Computer Science**</span> . <br>
