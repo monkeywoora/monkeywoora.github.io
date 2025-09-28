@@ -17,8 +17,13 @@ redirect_from:
 **Brief Description:** I think there is no need to say something more about the usage of E2EE IM Softwares in IPv4 Environment. However, what is the condition in IPv6 Environment, especially IPv6-Only Environment?<br>
 **Reference:**
 
-
-> 1. [Privacy and security in IPv6 networks: challenges and possible solutions.](https://dl.acm.org/doi/10.1145/2523514.2527004) (ACM SIN 2013)
+> 1. [Overview of Mobile IPv6 Security](https://ieeexplore.ieee.org/document/6169767) (IEEE ISMS 2012)
+> 2. [Privacy and security in IPv6 networks: challenges and possible solutions.](https://dl.acm.org/doi/10.1145/2523514.2527004) (ACM SIN 2013)
+> 3. [Overview and Analysis the Performance of Security in Mobile IPv6](https://ieeexplore.ieee.org/document/9250721) (IEEE ICCCA 2020)
+> 4. [Vizard: A Metadata-hiding Data Analytics System with End-to-End Policy Controls](https://dl.acm.org/doi/10.1145/3548606.3559349) (ACM CCS 2022)
+> 5. [End-to-End Encrypted Cloud Storage in the Wild: A Broken Ecosystem](https://dl.acm.org/doi/10.1145/3658644.3690309) (ACM CCS 2024)
+> 6. [Nemesis: Combating Abusive Information in Encrypted Messaging with Private Reporting](https://link.springer.com/chapter/10.1007/978-3-031-70890-9_13) (ESORICS 2024)
+> 7. [Implementing full Internet IPv6 end-to-end encryption based on Cryptographically Generated Address](https://archive.torproject.org/websites/lists.torproject.org/pipermail/tor-talk/2019-January/044835.html)  (TOR Project)
 
 
 ### Idea 2: Random Order Models' Coloring in the Bipartite Graphes
