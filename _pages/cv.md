@@ -11,6 +11,7 @@ redirect_from:
 
 ## Education
 
+* Middle School Degree in Tianjin Yinghua International School, 2014.09 ~ 2020.07
 * B.E. in Electronic Information Engineering, Beijing University of Technology, 2020.09 ~ 2024.07
 * M.S. in Computer Science, City University of Hong Kong (Dongguan Campus), 2024.09 ~ 2026.06 (expected)
 
